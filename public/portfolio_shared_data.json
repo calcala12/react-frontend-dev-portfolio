@@ -1,8 +1,8 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
-      "social": [
+      "name": "Carlos Alcala",
+      "titles": [ "Full-Stack Developer", "Engineer", "Problem Solver", "Web App Developer" ],
+      "social": [ "email",
         {
           "name": "github",
           "url": "https://github.com",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Headshot.jpeg"
     },
     "skills": {
       "icons": [

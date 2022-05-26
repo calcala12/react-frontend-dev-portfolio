@@ -1,7 +1,8 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi!",
+      "description": "I'm Carlos Alcala. A Full-Stack Engineer from the San Francisco Bay Area. I fell in love with engineering at a young age, and since then I have been exploring new technologies to help make my ideas a reality.",
+      "contact_me": "Hello",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +12,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Budge-It",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/budge-it/home-screen.png"
         ],
         "url": "",
         "technologies": [
@@ -81,37 +81,37 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "100devs",
+        "title": "Full-Stack Developer",
+        "years": "1.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full-Stack"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "React",
+          "PostgreSQL",
+          "OOP"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "SCFIT",
+        "title": "Front-End Developer",
+        "years": "11.2016 - 01.2017",
         "mainTech": [
-          "Angular 7/8"
+          "HTML5, CSS, WordPress"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "HTML5",
+          "CSS",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "WordPress"
         ]
       }
     ]
