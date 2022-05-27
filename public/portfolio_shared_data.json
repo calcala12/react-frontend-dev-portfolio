@@ -2,16 +2,16 @@
     "basic_info": {
       "name": "Carlos Alcala",
       "titles": [ "Full-Stack Developer", "Engineer", "Problem Solver", "Web App Developer" ],
-      "social": [ "email",
+      "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/calcala12",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/carlos-alcala12/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "Headshot.jpeg"
@@ -49,18 +49,28 @@
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "65"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "WordPress",
+          "class": "devicon-wordpress-plain",
           "level": "60"
         }
       ]

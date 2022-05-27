@@ -16,13 +16,14 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
-      var aboutTwo = this.props.resumeBasicInfo.contact_me
+      var contactMe = this.props.resumeBasicInfo.contact_me
+      var contactMeHeading = this.props.resumeBasicInfo.contact_me_heading;
     }
 
     return (
       <section id="about">
         <div className="col-md-12">
-          <h1 style={{ color: "black" }}>
+          <h1 style={{ color: "white" }}>
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
@@ -107,10 +108,10 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} </span>
+                    <span className="wave">{contactMeHeading} </span>
                     <br />
                     <br />
-                    {aboutTwo}
+                    {contactMe}
                   </div>
                 </div>
               </div>

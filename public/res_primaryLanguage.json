@@ -2,7 +2,8 @@
     "basic_info": {
       "description_header": "Hi!",
       "description": "I'm Carlos Alcala. A Full-Stack Engineer from the San Francisco Bay Area. I fell in love with engineering at a young age, and since then I have been exploring new technologies to help make my ideas a reality.",
-      "contact_me": "Hello",
+      "contact_me_heading": "Contact me!",
+      "contact_me": "caalcala@gmail.com",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,9 +13,9 @@
     },
     "projects": [
       {
-        "title": "Budge-It",
+        "title": "Budge-It | Full-Stack Web App",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Personal project of mine that allowed me to further explore vanilla JavaScript functionalities. Budge-It allows you to input your monthly income and expenses to create a budget for yourself. ",
         "images": [
           "images/portfolio/budge-it/home-screen.png"
         ],
@@ -35,14 +36,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Restaurant Site",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/yourrestaurant.png"
         ],
-        "url": "https://github.com",
+        "url": "https://yourrestaurant-carlosdev.netlify.app",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +55,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Site for Professional",
+        "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/personalsite.png"
         ],
         "url": "https://github.com",
         "technologies": [
